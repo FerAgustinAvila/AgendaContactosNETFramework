@@ -11,7 +11,7 @@ Utilizando Net Framework, con el lenguaje C# cree esta aplicación de consola pa
 ![Agregar](Vistas/agregar.jpg)
 
 ### Ver
-![Menu de ver](Vistas/ver.jpg)
+![Menu de ver](Vistas/vermenu.jpg)
 
 ### Ver de forma ascendente
 ![Ver Ascendente](Vistas/verasc.jpg)
